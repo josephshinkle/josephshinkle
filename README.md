@@ -7,10 +7,10 @@
 - Aspiring Software Engineer  
 
 ## 🛠 Tech Stack
-**Languages:** Python, C++, SQL, HTML/CSS 
-**Frameworks & Libraries:** Flask and Jinja2 
-**Tools:** Git, GitHub, VS Code, Render
-**Databases:** SQLite
+- **Languages:** Python, C++, SQL, HTML/CSS 
+- **Frameworks & Libraries:** Flask and Jinja2 
+- **Tools:** Git, GitHub, VS Code, Render
+- **Databases:** SQLite
 
 ## 🚀 Featured Projects
 ### Task Manager Web App
