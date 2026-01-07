@@ -1,7 +1,7 @@
 ## Hi there my name is Joseph Shinkle 👋
 
 ## 👨‍💻 About Me
-- Computer Engineering student at Tennessee Tech University  
+- Computer Science student at Tennessee Tech University  
 - Interested in full-stack development, systems, and backend engineering  
 - Building projects with Python, Flask, SQL, and C++  
 - Aspiring Software Engineer  
